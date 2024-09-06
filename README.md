@@ -26,11 +26,11 @@ Copy code
   [
     {
         "entity": "O",
-        "word": "Ġi"
+        "word": "i"
     },
     {
         "entity": "O",
-        "word": "Ġi"
+        "word": "love"
     }
   ]
 }
