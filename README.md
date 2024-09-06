@@ -22,15 +22,43 @@ Content-Type: application/json
 Body:
 json
 Copy code
-{
-  [
-    {
+ {
         "entity": "O",
-        "word": "i"
+        "word": "<s>"
     },
     {
         "entity": "O",
-        "word": "love"
+        "word": "ĠSample"
+    },
+    {
+        "entity": "O",
+        "word": "Ġtext"
+    },
+    {
+        "entity": "O",
+        "word": "Ġthat"
+    },
+    {
+        "entity": "O",
+        "word": "Ġyou"
+    },
+    {
+        "entity": "O",
+        "word": "Ġwant"
+    },
+    {
+        "entity": "O",
+        "word": "Ġto"
+    },
+    {
+        "entity": "O",
+        "word": "Ġanalyze"
+    },
+    {
+        "entity": "O",
+        "word": "."
+    },
+    {
+        "entity": "O",
+        "word": "</s>"
     }
-  ]
-}
